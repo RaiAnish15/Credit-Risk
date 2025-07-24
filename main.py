@@ -62,8 +62,8 @@ def load_data():
 df, grade_defaults, q1, q2, q3, safe_grades, risky_grades = load_data()
 
 # === Streamlit UI ===
-st.title("📊 Credit Risk Segment Estimator")
-st.markdown("Estimate the default risk based on income and credit grade using realistic segmentation.")
+st.title("📊 Credit Risk Estimator")
+st.markdown("Estimate the default risk based on income and credit grade.")
 
 # Income input
 income_input = st.slider("💰 Annual Income (₹)", 

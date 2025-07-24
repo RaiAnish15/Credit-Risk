@@ -1,5 +1,5 @@
 
-# 📊 Credit Risk Segment Dashboard
+# 📊 Credit Risk Estimator Dashboard
 
 This Streamlit dashboard estimates the probability of loan default based on a person's **income** and **credit grade** using real historical loan data.
 
